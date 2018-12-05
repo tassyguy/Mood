@@ -2,7 +2,7 @@
   "name": "mood",
   "version": "1.0.0",
   "description": "An Electron-based app that changes your wallaper and desktop based on the time of day and weather",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {
     "electron": "^3.0.10"
   },
