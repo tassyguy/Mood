@@ -1,9 +1,13 @@
 {
   "name": "mood",
   "version": "1.0.0",
-  "description": "An Electron-based app that changes your wallaper and desktop based on the time of day and weather",
+  "description": "An Electron-based app that changes your wallpaper and desktop based on the time of day and weather",
   "main": "main.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.4",
+    "g": "^2.0.1",
+    "material-components-web": "^0.42.0"
+  },
   "devDependencies": {
     "electron": "^3.0.10"
   },
